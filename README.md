@@ -8,5 +8,5 @@ This project provides practical implementations of the SARSA and Value Iteration
 
 - **Value Iteration**: An off-policy algorithm that iteratively updates the values assigned to each state to find the optimal policy. This method is robust and converges to the optimal policy and value function after a sufficient number of iterations.
 
-Both algorithms are implemented in Python using libraries such as NumPy for handling numerical operations efficiently.
+Both algorithms are implemented in Python using libraries such as NumPy for handling numerical operations efficiently. The algorithms are simulated on OpenAI Gym.
 
