@@ -1,6 +1,4 @@
-This repository contains implementation code for two fundamental reinforcement learning algorithms: SARSA (State-Action-Reward-State-Action) and Value Iteration. These algorithms are pivotal for solving decision-making problems under uncertainty, and this codebase is designed to help you understand and apply these techniques in various scenarios.
-
-## Description
+This repository contains implementation code for two fundamental reinforcement learning algorithms: SARSA (State-Action-Reward-State-Action) and Value Iteration. These algorithms are pivotal for solving decision-making problems under uncertainty.
 
 This project provides practical implementations of the SARSA and Value Iteration algorithms. Here's a brief overview of each algorithm included in this repository:
 
